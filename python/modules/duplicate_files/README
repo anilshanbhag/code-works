@@ -1,0 +1,15 @@
+This module is provided under the GPL v3 
+[http://www.gnu.org/licenses/gpl-2.0.html].
+
+This module provides for one function 
+
+menthod:find_duplicates
+arg1 : dir 
+
+Example usage: 
+
+import find_duplicates
+[On Linux Machine]
+find_duplicates("/home/[Username]/")
+[On Windows Machine]
+find_duplicates("C://")	
